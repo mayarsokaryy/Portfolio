@@ -1,0 +1,13 @@
+[00:00:03.188] Server  LOG     ✓ Ready in 2.2s
+[00:00:05.917] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:13.301] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\projects\portfolio\app'
+[00:13:13.311] Server  ERROR   ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir 'C:\projects\portfolio\app'
+[00:13:13.320] Server  ERROR   ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir 'C:\projects\portfolio\app'
+[00:13:13.345] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\projects\portfolio\app'
+[00:13:13.354] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\projects\portfolio\app'
+[00:13:13.367] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\projects\portfolio\app'
+[00:13:13.372] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\projects\portfolio\app'
+[00:13:13.387] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\projects\portfolio\app'
+[00:13:13.391] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\projects\portfolio\app'
+[00:13:13.405] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\projects\portfolio\app'
+[00:13:13.411] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\projects\portfolio\app'
